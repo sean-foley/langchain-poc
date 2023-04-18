@@ -1,0 +1,13 @@
+# this is the gen-ai wrapper framework
+langchain
+
+# this is an open source vector db
+chromadb
+
+# this is a wrapper around facebook's
+# llm that you can run on your local
+# machine assuming you have LOTs of RAM
+#llama-cpp-python
+
+# for printing to stdout in different colors
+colorama
