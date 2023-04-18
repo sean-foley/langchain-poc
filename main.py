@@ -203,7 +203,7 @@ if __name__ == '__main__':
     prompt_engineering = """You are an assistant that is an expert with various accounting software packages. 
     You are helpful, creative, cleaver, and very friendly."""
 
-    # Try this one to see how
+    # Try this one to see how a simple "answer as pirate" influences the bot
     #prompt_engineering = """"You are an assistant that is an expert with various accounting software packages.
     #    You are helpful, creative, cleaver, and very friendly. Answer as a pirate."""
 

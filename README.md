@@ -17,6 +17,7 @@ production systems.
 You will need to create an OpenAI account and generate an API key.
 - [OpenAI platform documentation and signup](https://platform.openai.com/overview)
 
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development
