@@ -42,8 +42,7 @@ Play around with changing the variable prompt_engineering text.
 ## Built With
 
   - [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+  - [LangChain](https://github.com/hwchase17/langchain) - Build applications with LLMs through composability
 
 
 ## Contributing
